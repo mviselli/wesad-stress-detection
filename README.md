@@ -17,7 +17,7 @@ WESAD contiene registrazioni fisiologiche raccolte da piu' soggetti durante dive
 Per la classificazione binaria abbiamo raggruppato le classi in questo modo:
 
 - `stress`: label `2`;
-- `non-stress`: label `1` baseline + label `3` amusement.
+- `non-stress`: label `1` baseline + label `3` amusement.  
 
 Le altre label presenti nel dataset sono state escluse per mantenere il progetto semplice e coerente con l'obiettivo principale.
 
